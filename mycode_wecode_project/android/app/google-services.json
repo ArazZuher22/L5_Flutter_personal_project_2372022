@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "405196330001",
+    "project_id": "final-wecode-project",
+    "storage_bucket": "final-wecode-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405196330001:android:a4c9113275ff065cd64db0",
+        "android_client_info": {
+          "package_name": "com.example.mycode_wecode_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405196330001-5tu3oiqcc24d260cjuf1m1vf6uk5i4ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx-H7Iw5wRsc8uqqoDlE-Hq6sP0XG5fU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405196330001-5tu3oiqcc24d260cjuf1m1vf6uk5i4ut.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405196330001-fs8ijvp5pnd9h3khuogfvenqn54m0j16.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mycodeWecodeProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
